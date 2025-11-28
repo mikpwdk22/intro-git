@@ -1,3 +1,3 @@
-const username = '';
-const password = '';
-const email = '';
+const Userame = '';
+const Password = '';
+const Email = '';
